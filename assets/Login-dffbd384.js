@@ -2977,7 +2977,7 @@ var Ye =
 const vt = (n) => (Ee("data-v-e7def070"), (n = n()), De(), n),
   ti = { class: "btn_box" },
   ei = vt(() => A("img", { class: "img", src: Ae, alt: "" }, null, -1)),
-  ii = vt(() => A("div", { class: "title" }, "Welcome To Dechat", -1)),
+  ii = vt(() => A("div", { class: "title" }, "Welcome To DeEcho", -1)),
   ni = { class: "protocolbox" },
   ri = { class: "text-i" },
   si = { class: "protocol_box" },

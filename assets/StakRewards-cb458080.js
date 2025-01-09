@@ -357,7 +357,7 @@ const $ = [
             },
             { internalType: "uint256", name: "youcanclaim", type: "uint256" },
           ],
-          internalType: "struct DechatStaking.ViewStake",
+          internalType: "struct DeEchoStaking.ViewStake",
           name: "",
           type: "tuple",
         },
@@ -436,21 +436,21 @@ const $ = [
       const m = i([
           {
             name: "Data Mining",
-            token: "dechat",
+            token: "DeEcho",
             apr: "N/A",
             period: "18 Days",
             link: "https://www.dechat.io/mining",
           },
           {
             name: "Stake 7-60 Days",
-            token: "dechat",
+            token: "DeEcho",
             apr: "15% - 25%",
             period: "7-60 Days",
             link: "https://www.dechat.io/staking",
           },
           {
             name: "Stake 365 Days",
-            token: "dechat",
+            token: "DeEcho",
             apr: "N/A",
             period: "365 Days",
             link: "https://www.dechat.io/pool",
@@ -568,7 +568,7 @@ const $ = [
                       ]),
                       e("div", oe, [
                         pe,
-                        e("div", { class: "s_titles", onClick: x }, "DECHAT"),
+                        e("div", { class: "s_titles", onClick: x }, "DeEcho"),
                         de,
                         e("div", re, [
                           e("div", le, [
