@@ -491,7 +491,7 @@ const $ = [
         },
         x = () => {
           T(() => {
-            window.open("https://dechat.io/home", "_blank"), d();
+            window.open("https://www.deechoai.cc/home", "_blank"), d();
           });
         },
         D = () => {
